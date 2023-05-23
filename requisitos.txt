@@ -1,4 +1,4 @@
-Descrição dos requisitos:
+Descrição dos requisitos do projeto:
 
 Aplicação Web com interface Apresentável (front-end)
 Pelo menos 4 links de menu (páginas)

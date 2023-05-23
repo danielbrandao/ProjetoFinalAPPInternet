@@ -1,0 +1,8 @@
+Descrição dos requisitos:
+
+Aplicação Web com interface Apresentável (front-end)
+Pelo menos 4 links de menu (páginas)
+Identidade visual (cores, logo, etc)
+Uso de Formulário
+Boas práticas de desenvolvimento (indentação, uso correto de estilos e TAGs HTML etc)
+Uso de CSS externo (incorporado ao documento HTML)
